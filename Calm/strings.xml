@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learn compose</string>
+    <string name="greet_title">Good Morning,</string>
+    <string name="new_title">New meditation sets</string>
+    <string name="see_all">See all</string>
+    <string name="recomend_title">Recommended sets for you</string>
+</resources>
