@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">learn compose</string>
+    <string name="login_title">Here To Get \nWelcomed</string>
+    <string name="email_hint">Email</string>
+    <string name="pass_hint">Password</string>
+    <string name="sign_in_text">Sign in</string>
+    <string name="spash_title">In the end, we’ll all become stories.</string>
+    <string name="start">Get Started</string>
+</resources>
