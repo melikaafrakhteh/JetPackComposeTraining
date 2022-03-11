@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">learn compose</string>
+    <string name="mid_level_text">Middle level</string>
+    <string name="time">40 minutes</string>
+    <string name="start">Start</string>
+    <string name="great_text">Great!</string>
+</resources>
