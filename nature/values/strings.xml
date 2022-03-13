@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">learn compose</string>
+    <string name="skip">Skip</string>
+    <string name="splash_light_title">Inside</string>
+    <string name="splash_bold_title">Nature</string>
+    <string name="splash_desc">
+        Create a piece of wildlife at \nhome and immerse yourself\nin peace and quiet.
+    </string>
+    <string name="search_hint">What are you looking for?     </string>
+    <string name="popular_text">Most Popular</string>
+    <string name="view_all_hint">View All</string>
+    <string name="best_text">Best Price</string>
+</resources>
